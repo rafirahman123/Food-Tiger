@@ -11,6 +11,8 @@ h1{
 
 .banner-section{
     display: flex;
+    margin-bottom: 150px;
+    
 }
 
 .skip-word{
@@ -34,4 +36,26 @@ h1{
     font-weight: 700;
     border-radius: 35px;
 
+}
+
+.middle-banner-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.about-part{
+    margin-left: 30%;
+    padding: 5%;
+    
+
+}
+
+.middleback{
+    background-image: url(img/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.middle-part img{
+ width: 150%;
 }
