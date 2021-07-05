@@ -6,12 +6,13 @@ body{
 
 h1{
     
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .banner-section{
+    margin-top: 50px;
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     
 }
 
@@ -58,4 +59,30 @@ h1{
 
 .middle-part img{
  width: 150%;
+}
+
+#third-headtxt{
+    text-align: center;
+}
+#third-ptxt{
+    text-align: center;
+}
+
+
+.fooditem{
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 40px blue;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+    
 }
