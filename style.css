@@ -91,6 +91,14 @@ h1{
     
 }
 
+.bonus-section{
+    background-image: linear-gradient(blue , aqua);
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+
 .footer-division{
 
     text-align: center;
@@ -102,3 +110,26 @@ h1{
 .foodtext{
     color: chocolate;
 }
+
+.topnav {
+    background-image: linear-gradient(blue , aqua);
+    overflow: hidden;
+  }
+
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 16px;
+    margin-right: 120px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 700;
+  }
+
+  
+.topnav a:hover {
+    background-color:aqua;
+    color: blue;
+  }
+  
